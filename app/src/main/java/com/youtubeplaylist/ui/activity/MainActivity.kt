@@ -14,7 +14,7 @@ import com.youtubeplaylist.R
 import com.youtubeplaylist.databinding.ActivityMainBinding
 import com.youtubeplaylist.ui.adapter.VideoAdapter
 import com.youtubeplaylist.viewmodel.YouTubeViewModel
-
+//https://github.com/Coding-Meet/Play-Youtube-Video
 class MainActivity : AppCompatActivity() {
     private val youTubeViewModel: YouTubeViewModel by viewModels()
     private lateinit var videoAdapter: VideoAdapter
