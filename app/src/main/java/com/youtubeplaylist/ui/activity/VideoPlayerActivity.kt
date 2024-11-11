@@ -10,8 +10,6 @@ import com.youtubeplaylist.databinding.ActivityVideoPlayerBinding
 
 class VideoPlayerActivity : AppCompatActivity() {
     lateinit var binding: ActivityVideoPlayerBinding
-    //val videoId = "RazWA1DN0Dw"
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
