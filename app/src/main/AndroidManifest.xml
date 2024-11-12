@@ -15,6 +15,9 @@
         android:theme="@style/Theme.YoutubePlayList"
         tools:targetApi="31">
         <activity
+            android:name=".ui.activity.CustomUIActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activity.VideoPlayerActivity"
             android:exported="false" />
         <activity

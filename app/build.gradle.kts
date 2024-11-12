@@ -62,8 +62,10 @@ dependencies {
 //    implementation 'com.squareup.picasso:picasso:2.71828'
     implementation(libs.picasso)
 
-       // implementation ("com.google.android.youtube:youtube-android-player-api:1.2.2")
-    implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
+    //implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
+
+    implementation ("com.pierfrancescosoffritti.androidyoutubeplayer:custom-ui:12.1.0")
+
 
 
 
